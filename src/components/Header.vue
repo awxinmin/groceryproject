@@ -17,7 +17,7 @@
 
         data(){
             return{
-                msg: 'Grocery List'
+                msg: 'Updated Grocery List'
             }
         },
         props:{
